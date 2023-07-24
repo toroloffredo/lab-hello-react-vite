@@ -9,7 +9,7 @@
   background-color: #213547;
   margin: 0;
   padding: 0;
-  width: 100vw;
+ height: 500px;
 }
 
 .logo1 {
@@ -69,6 +69,7 @@ header {
 
 section {
   max-width: 93%;
+  max-height: 100%;
 }
 .container {
   padding: 10px;
